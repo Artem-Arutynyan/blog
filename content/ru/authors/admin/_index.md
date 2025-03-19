@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Бизнес-аналитика
+  - Финансовые технологии (FinTech)
+  - Проектный менеджмент
+  - Автоматизация бизнес-процессов
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю бизнес-информатику, интересуюсь аналитикой данных, цифровыми технологиями в бизнесе и управлением проектами.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,44 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю бизнес-аналитику, FinTech и цифровую трансформацию компаний.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
+      - name: Excel
+        description: Работаю с анализом данных и построением отчетов
         percent: 80
+        icon: code-bracket
+      - name: SQL
+        description: Основы работы с базами данных
+        percent: 65
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Power BI
+        description: Визуализация данных и создание бизнес-отчетов
+        percent: 60
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Настольный теннис
+        description: Играю на любительском уровне
+        percent: 85
+      - name: Инвестиции
+        description: Изучаю фондовый рынок и управление капиталом
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+      - name: Путешествия
+        description: Люблю изучать новые культуры и страны
+        percent: 90
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.

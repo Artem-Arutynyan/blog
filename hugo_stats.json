@@ -485,6 +485,7 @@
       "shrink-0",
       "sidebar-active-item",
       "skills-content",
+      "skills-description",
       "skills-icon",
       "skills-name",
       "sm:-inset-x-6",
@@ -612,9 +613,15 @@
       "test-students",
       "top",
       "video",
+      "где-применяется-latex",
       "итоги-недели",
+      "итоги-учебной-недели",
       "непрерывная-интеграция-и-развертывание-cicd",
-      "о-себе"
+      "о-себе",
+      "основные-преимущества-latex",
+      "что-такое-latex",
+      "что-такое-языки-разметки",
+      "языки-разметки-и-latex"
     ]
   }
 }
